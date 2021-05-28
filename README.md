@@ -1,1 +1,3 @@
 # humanprogress
+
+setting up
